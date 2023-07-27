@@ -1,4 +1,3 @@
-# Acknowledgement of Understanding 
 
 This acknowledgement of understanding indicates that the signee has read and understands all
 relevant documentation on the roles and responsibilities relevant to the use of SiteDocs and Teams
